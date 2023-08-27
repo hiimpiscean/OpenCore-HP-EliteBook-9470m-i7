@@ -27,6 +27,6 @@
 - Audio working correctly.
 - Ensure to edit the **config.plist** and add valid  **PlatformInfo Generic** and **SMBIOS** values.
 
-## To-do
+## Notes
 
-- Patch power management, currently unable to generate Power Management SSDT (Kernel panic). CPU freq cannot go above 2.00GHz
+- This EFI contains ME patch for skipping Intel MEI check, useful for broken ME region motherboards. If your ME firmware is working properly, please disable this patch in config -> patches.
