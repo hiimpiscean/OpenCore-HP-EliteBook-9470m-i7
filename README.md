@@ -11,7 +11,7 @@
 | Computer model      | HP EliteBook Folio 9470m      |
 | Processor           | Intel Core i7-3687U, dual-core  |
 | RAM                 | 8GB (2x4GB) 1333MHz, mixed |
-| SSD                 | SATA3 SAMSUNG 870 EVO 500GB |
+| SSD                 | SATA3 INTEL SSD 525P Series 250GB |
 | OS                  | macOS Catalina 10.15.7 + Windows 10 dual-boot|
 | Integrated Graphics | Intel HD4000 1536MB      |
 | Monitor             | 1600x900 non-touchscreen (13.9") |
